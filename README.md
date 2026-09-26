@@ -1,4 +1,4 @@
-# Museu Digital - Projeto Académico
+# Museu Digital - Projeto Acadêmico
 
 ## Descrição
 Aplicação web desenvolvida para a apresentação do acervo e história de municípios e peças históricas.
